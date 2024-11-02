@@ -38,7 +38,9 @@ xxx
 
 # head to gitlab.com or your standalone gitlab
 # define these variables by going through left menu
+
 Go to Settings > CI / CD > Variables
+
     Key: ID_RSA
     Value: SSH Key id_rsa.
     Type: File
