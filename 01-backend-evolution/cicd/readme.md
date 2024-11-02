@@ -32,9 +32,12 @@ cat ~/.ssh/id_rsaxxx.pub >> ~/.ssh/authorized_keys
 # save the result of to use on gitlab
 cat ~/.ssh/id_rsa
 
------BEGIN RSA PRIVATE KEY-----
-xxx
------END RSA PRIVATE KEY-----
+```
+ -----BEGIN RSA PRIVATE KEY-----
+ xxx
+ -----END RSA PRIVATE KEY-----
+
+```
 
 # head to gitlab.com or your standalone gitlab
 # define these variables by going through left menu
